@@ -1,4 +1,6 @@
 # Docker Time Machine® Server
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdehy%2Fdocker-timemachine-server.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdehy%2Fdocker-timemachine-server?ref=badge_shield)
+
 
 Yet another Docker container providing Apple®'s Time Machine® service using
 Samba and Avahi (and supervisor) daemons, on a Debian 9 base.
@@ -61,3 +63,5 @@ I'm not, in any way, affiliated with Apple Inc. nor this project is supported by
 #### LICENSE
 
 This project is under [MIT License](LICENSE)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdehy%2Fdocker-timemachine-server.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdehy%2Fdocker-timemachine-server?ref=badge_large)
